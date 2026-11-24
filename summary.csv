@@ -1,0 +1,4 @@
+product,name,stocked,sold,remaining,profit,required_cash,financial_pass,cash_after_settlement,settled_after_round_100,pending_after_settlement
+A,Adhesive wall rack,50,48,2,299.2,830.0,False,787.2,0,0
+B,Over-cabinet organizer,10,10,0,59.0,390.0,True,559.0,0,0
+C,Freestanding shelf,20,14,6,128.6,630.0,False,556.6,0,0

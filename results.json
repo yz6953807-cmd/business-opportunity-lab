@@ -1,0 +1,5129 @@
+{
+  "label": "Synthetic software experiment, not real demand",
+  "seed": 1401,
+  "mode": "Joint market",
+  "rounds": 100,
+  "buyers": [
+    {
+      "id": "B001",
+      "segment": "Student renter",
+      "budget": 30.363937501862566,
+      "entry": 57,
+      "interest": 0.8964695859232487,
+      "preferences": {
+        "A": 0.7190287870168867,
+        "B": 0.4977327691314479,
+        "C": 0.8026436609760917
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B002",
+      "segment": "Student renter",
+      "budget": 33.66498793720393,
+      "entry": 47,
+      "interest": 0.775307672304683,
+      "preferences": {
+        "A": 0.6509135800120847,
+        "B": 0.889465189424726,
+        "C": 0.5311019055400176
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B003",
+      "segment": "Student renter",
+      "budget": 35.54255833478409,
+      "entry": 60,
+      "interest": 0.1455688948612991,
+      "preferences": {
+        "A": 0.37267493788758965,
+        "B": 0.06928682716520584,
+        "C": 0.6726143194422353
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B004",
+      "segment": "Student renter",
+      "budget": 30.294323337105098,
+      "entry": 68,
+      "interest": 0.10162816037420974,
+      "preferences": {
+        "A": 0.40381900278710825,
+        "B": 0.4241806231380023,
+        "C": 0.7539070182180486
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B005",
+      "segment": "Student renter",
+      "budget": 29.303669936202933,
+      "entry": 71,
+      "interest": 0.3184693802490002,
+      "preferences": {
+        "A": 0.9970453339665829,
+        "B": 0.8909679848131733,
+        "C": 0.5899381112553544
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B006",
+      "segment": "Student renter",
+      "budget": 23.322357393666564,
+      "entry": 8,
+      "interest": 0.20165726330967415,
+      "preferences": {
+        "A": 0.026238603808483973,
+        "B": 0.8696120900722787,
+        "C": 0.4831408593896822
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B007",
+      "segment": "Student renter",
+      "budget": 26.88472793210832,
+      "entry": 15,
+      "interest": 0.9402212418692824,
+      "preferences": {
+        "A": 0.3930327309958396,
+        "B": 0.7161627600267523,
+        "C": 0.09751283246175746
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B008",
+      "segment": "Student renter",
+      "budget": 32.66466608393638,
+      "entry": 20,
+      "interest": 0.9012980816168605,
+      "preferences": {
+        "A": 0.4719011049564513,
+        "B": 0.9795755961130082,
+        "C": 0.003034703820812834
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B009",
+      "segment": "Student renter",
+      "budget": 19.620301641293338,
+      "entry": 35,
+      "interest": 0.20851484650204233,
+      "preferences": {
+        "A": 0.9880167154818832,
+        "B": 0.916586717260181,
+        "C": 0.2616645773368541
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 1
+    },
+    {
+      "id": "B010",
+      "segment": "Student renter",
+      "budget": 23.98922355043338,
+      "entry": 77,
+      "interest": 0.22492754567475748,
+      "preferences": {
+        "A": 0.3275416283397874,
+        "B": 0.9895825454193778,
+        "C": 0.9770913772102867
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": false
+      },
+      "delay": 5
+    },
+    {
+      "id": "B011",
+      "segment": "Student renter",
+      "budget": 20.448962754369585,
+      "entry": 67,
+      "interest": 0.9215338894809032,
+      "preferences": {
+        "A": 0.2408773553051703,
+        "B": 0.5117460341236886,
+        "C": 0.14862543835814657
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B012",
+      "segment": "Student renter",
+      "budget": 18.355051728616363,
+      "entry": 79,
+      "interest": 0.7457610611853133,
+      "preferences": {
+        "A": 0.18498160478533332,
+        "B": 0.8292812149718694,
+        "C": 0.7858005856472966
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 4
+    },
+    {
+      "id": "B013",
+      "segment": "Student renter",
+      "budget": 18.536773260211895,
+      "entry": 39,
+      "interest": 0.24198253264245484,
+      "preferences": {
+        "A": 0.3939229455850296,
+        "B": 0.5911609536619873,
+        "C": 0.792193162095042
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B014",
+      "segment": "Student renter",
+      "budget": 31.520220694696466,
+      "entry": 70,
+      "interest": 0.6428119536897903,
+      "preferences": {
+        "A": 0.7696705673004002,
+        "B": 0.03289852558123785,
+        "C": 0.862860973428177
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B015",
+      "segment": "Student renter",
+      "budget": 20.563625673687735,
+      "entry": 20,
+      "interest": 0.20825355901094167,
+      "preferences": {
+        "A": 0.018391225117542986,
+        "B": 0.284953365565786,
+        "C": 0.09256610026914436
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 3
+    },
+    {
+      "id": "B016",
+      "segment": "Student renter",
+      "budget": 28.557268933994937,
+      "entry": 69,
+      "interest": 0.30166294399758453,
+      "preferences": {
+        "A": 0.11631960674882769,
+        "B": 0.03336122602971758,
+        "C": 0.3240851542855454
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B017",
+      "segment": "Student renter",
+      "budget": 29.56386554436802,
+      "entry": 13,
+      "interest": 0.48322928945472965,
+      "preferences": {
+        "A": 0.07476884085666236,
+        "B": 0.14508821972520458,
+        "C": 0.8724179846094078
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B018",
+      "segment": "Student renter",
+      "budget": 29.465787338728273,
+      "entry": 16,
+      "interest": 0.47520125759913745,
+      "preferences": {
+        "A": 0.8642750210591232,
+        "B": 0.15638042903058524,
+        "C": 0.779304568853409
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B019",
+      "segment": "Student renter",
+      "budget": 24.576450948873834,
+      "entry": 32,
+      "interest": 0.7920041533731208,
+      "preferences": {
+        "A": 0.32818120860757494,
+        "B": 0.4036561490087913,
+        "C": 0.21886311611192388
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B020",
+      "segment": "Student renter",
+      "budget": 25.01979594565845,
+      "entry": 18,
+      "interest": 0.7206665882062416,
+      "preferences": {
+        "A": 0.23328961901072687,
+        "B": 0.04962313689112985,
+        "C": 0.5809017728187511
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B021",
+      "segment": "Student renter",
+      "budget": 28.311328054869673,
+      "entry": 71,
+      "interest": 0.680230157399061,
+      "preferences": {
+        "A": 0.44445912987904457,
+        "B": 0.12536883601550586,
+        "C": 0.5718123961675423
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B022",
+      "segment": "Student renter",
+      "budget": 24.920134741699965,
+      "entry": 12,
+      "interest": 0.6166657634329276,
+      "preferences": {
+        "A": 0.08010867086040441,
+        "B": 0.7608365782267731,
+        "C": 0.6055570742911472
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B023",
+      "segment": "Student renter",
+      "budget": 15.57705959297802,
+      "entry": 52,
+      "interest": 0.21974101298744675,
+      "preferences": {
+        "A": 0.3673098070245988,
+        "B": 0.22062121494756592,
+        "C": 0.5206183015190905
+      },
+      "fit": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "delay": 3
+    },
+    {
+      "id": "B024",
+      "segment": "Student renter",
+      "budget": 26.29668666728712,
+      "entry": 19,
+      "interest": 0.5001460398614844,
+      "preferences": {
+        "A": 0.6011812753662699,
+        "B": 0.2404547050718665,
+        "C": 0.5688474922444533
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": false
+      },
+      "delay": 2
+    },
+    {
+      "id": "B025",
+      "segment": "Student renter",
+      "budget": 24.78259303334817,
+      "entry": 48,
+      "interest": 0.7672558097230784,
+      "preferences": {
+        "A": 0.32525657557580767,
+        "B": 0.8453715267507669,
+        "C": 0.8948699767841952
+      },
+      "fit": {
+        "A": false,
+        "B": false,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B026",
+      "segment": "Student renter",
+      "budget": 24.0730964359406,
+      "entry": 52,
+      "interest": 0.5692881153450516,
+      "preferences": {
+        "A": 0.5219160180777377,
+        "B": 0.7468055041122993,
+        "C": 0.32229095238418304
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B027",
+      "segment": "Student renter",
+      "budget": 18.493607808511122,
+      "entry": 71,
+      "interest": 0.1177448860238327,
+      "preferences": {
+        "A": 0.6822392192363061,
+        "B": 0.3301001512080274,
+        "C": 0.08724883735045708
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B028",
+      "segment": "Student renter",
+      "budget": 23.753482578020748,
+      "entry": 1,
+      "interest": 0.3158361972386523,
+      "preferences": {
+        "A": 0.8400358332622002,
+        "B": 0.7067567204966485,
+        "C": 0.293866355412423
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B029",
+      "segment": "Student renter",
+      "budget": 31.68895952012998,
+      "entry": 30,
+      "interest": 0.17061265734727804,
+      "preferences": {
+        "A": 0.720519031473045,
+        "B": 0.6502958455818454,
+        "C": 0.3217612343243198
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 1
+    },
+    {
+      "id": "B030",
+      "segment": "Student renter",
+      "budget": 30.37538849559231,
+      "entry": 26,
+      "interest": 0.5115636411606057,
+      "preferences": {
+        "A": 0.03749572586729355,
+        "B": 0.585851145596294,
+        "C": 0.31679337345047687
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B031",
+      "segment": "Young professional",
+      "budget": 38.87526934257957,
+      "entry": 74,
+      "interest": 0.012667353303559725,
+      "preferences": {
+        "A": 0.3464526890623947,
+        "B": 0.9160640498329027,
+        "C": 0.6251096834336871
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B032",
+      "segment": "Young professional",
+      "budget": 38.12133823763901,
+      "entry": 39,
+      "interest": 0.31791273743118365,
+      "preferences": {
+        "A": 0.7001400909075673,
+        "B": 0.45307846167269794,
+        "C": 0.4448176620209493
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B033",
+      "segment": "Young professional",
+      "budget": 37.880615739371,
+      "entry": 20,
+      "interest": 0.5021032183715942,
+      "preferences": {
+        "A": 0.7686949955044653,
+        "B": 0.7570905445739193,
+        "C": 0.46095839072844924
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B034",
+      "segment": "Young professional",
+      "budget": 46.1626024201623,
+      "entry": 2,
+      "interest": 0.30157611603193,
+      "preferences": {
+        "A": 0.9769818318099777,
+        "B": 0.07083217130092623,
+        "C": 0.015407724206251139
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B035",
+      "segment": "Young professional",
+      "budget": 30.54019618240038,
+      "entry": 52,
+      "interest": 0.7477773512884993,
+      "preferences": {
+        "A": 0.11628634587595221,
+        "B": 0.731945205567892,
+        "C": 0.5762813360753484
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B036",
+      "segment": "Young professional",
+      "budget": 49.157947882228115,
+      "entry": 72,
+      "interest": 0.6641160751902407,
+      "preferences": {
+        "A": 0.6438489772045567,
+        "B": 0.13611136871181373,
+        "C": 0.0008681397045308126
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 2
+    },
+    {
+      "id": "B037",
+      "segment": "Young professional",
+      "budget": 47.70135792543738,
+      "entry": 44,
+      "interest": 0.5302722207392068,
+      "preferences": {
+        "A": 0.975627620061059,
+        "B": 0.23270584489951562,
+        "C": 0.5209813961644385
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B038",
+      "segment": "Young professional",
+      "budget": 52.536013132557585,
+      "entry": 70,
+      "interest": 0.1436566571438802,
+      "preferences": {
+        "A": 0.8547905380930895,
+        "B": 0.5680962145396606,
+        "C": 0.2693901041141994
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B039",
+      "segment": "Young professional",
+      "budget": 37.3882982228481,
+      "entry": 9,
+      "interest": 0.24474578806214842,
+      "preferences": {
+        "A": 0.4683366875348509,
+        "B": 0.7825879991618376,
+        "C": 0.8683999216352974
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B040",
+      "segment": "Young professional",
+      "budget": 41.62984223222286,
+      "entry": 4,
+      "interest": 0.5644345071678899,
+      "preferences": {
+        "A": 0.2932571196027116,
+        "B": 0.7045407304117327,
+        "C": 0.7427783700639404
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B041",
+      "segment": "Young professional",
+      "budget": 22.906586893694772,
+      "entry": 26,
+      "interest": 0.4215057634340952,
+      "preferences": {
+        "A": 0.9356485026280472,
+        "B": 0.12535689460250132,
+        "C": 0.4553966945682787
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 3
+    },
+    {
+      "id": "B042",
+      "segment": "Young professional",
+      "budget": 50.983936663000506,
+      "entry": 42,
+      "interest": 0.7099514703757965,
+      "preferences": {
+        "A": 0.6669557647744451,
+        "B": 0.769440505174287,
+        "C": 0.5925657836407472
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 2
+    },
+    {
+      "id": "B043",
+      "segment": "Young professional",
+      "budget": 51.6931710235855,
+      "entry": 73,
+      "interest": 0.638658361135736,
+      "preferences": {
+        "A": 0.6187470641851951,
+        "B": 0.095665958346832,
+        "C": 0.2644922065204779
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B044",
+      "segment": "Young professional",
+      "budget": 59.68300626901806,
+      "entry": 28,
+      "interest": 0.5857149157121297,
+      "preferences": {
+        "A": 0.8313117189609268,
+        "B": 0.7168200605169871,
+        "C": 0.2763851407832111
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B045",
+      "segment": "Young professional",
+      "budget": 31.391521090726727,
+      "entry": 69,
+      "interest": 0.29980005625537,
+      "preferences": {
+        "A": 0.8733312624423402,
+        "B": 0.5275967604184993,
+        "C": 0.531952723101387
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B046",
+      "segment": "Young professional",
+      "budget": 24.11144216348266,
+      "entry": 72,
+      "interest": 0.030225668195906774,
+      "preferences": {
+        "A": 0.703072721682483,
+        "B": 0.5667501241123263,
+        "C": 0.8709163571459043
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B047",
+      "segment": "Young professional",
+      "budget": 53.29285790334622,
+      "entry": 54,
+      "interest": 0.4738057302133435,
+      "preferences": {
+        "A": 0.7212291944888906,
+        "B": 0.526948152137717,
+        "C": 0.7368665287578967
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 4
+    },
+    {
+      "id": "B048",
+      "segment": "Young professional",
+      "budget": 51.25547588932459,
+      "entry": 14,
+      "interest": 0.7057430563140109,
+      "preferences": {
+        "A": 0.9095111985500064,
+        "B": 0.3799815847369492,
+        "C": 0.567488701130277
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B049",
+      "segment": "Young professional",
+      "budget": 53.456813931930554,
+      "entry": 65,
+      "interest": 0.45583127888382313,
+      "preferences": {
+        "A": 0.025731871544379503,
+        "B": 0.6111176166824649,
+        "C": 0.8820247358005743
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B050",
+      "segment": "Young professional",
+      "budget": 43.834887992010096,
+      "entry": 18,
+      "interest": 0.7632566827036601,
+      "preferences": {
+        "A": 0.8266612415314168,
+        "B": 0.5537847286686616,
+        "C": 0.6952985018297797
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B051",
+      "segment": "Young professional",
+      "budget": 35.015982550412765,
+      "entry": 52,
+      "interest": 0.005580294362550475,
+      "preferences": {
+        "A": 0.30703472306161983,
+        "B": 0.665049462994533,
+        "C": 0.8610399578454317
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 3
+    },
+    {
+      "id": "B052",
+      "segment": "Young professional",
+      "budget": 57.34935872639055,
+      "entry": 37,
+      "interest": 0.9878265701480398,
+      "preferences": {
+        "A": 0.893120511013489,
+        "B": 0.11230982599459571,
+        "C": 0.8763734733056803
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B053",
+      "segment": "Young professional",
+      "budget": 52.88866022681476,
+      "entry": 67,
+      "interest": 0.798413009151849,
+      "preferences": {
+        "A": 0.8330780498354047,
+        "B": 0.30756771032542085,
+        "C": 0.9403521560442325
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 3
+    },
+    {
+      "id": "B054",
+      "segment": "Young professional",
+      "budget": 41.20063065102443,
+      "entry": 33,
+      "interest": 0.7576946434844148,
+      "preferences": {
+        "A": 0.7659285096954158,
+        "B": 0.09503455516218073,
+        "C": 0.10546438833177962
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B055",
+      "segment": "Young professional",
+      "budget": 24.224717733849335,
+      "entry": 35,
+      "interest": 0.3631533520415593,
+      "preferences": {
+        "A": 0.8612545659740056,
+        "B": 0.7967003805180222,
+        "C": 0.2391414162112916
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B056",
+      "segment": "Young professional",
+      "budget": 49.55726724774014,
+      "entry": 28,
+      "interest": 0.6958829969369861,
+      "preferences": {
+        "A": 0.8566645648617776,
+        "B": 0.9893869002995831,
+        "C": 0.42808890263919774
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B057",
+      "segment": "Young professional",
+      "budget": 53.593560043758885,
+      "entry": 17,
+      "interest": 0.07859439743983643,
+      "preferences": {
+        "A": 0.7918053107245399,
+        "B": 0.16704012674371704,
+        "C": 0.9602714755127726
+      },
+      "fit": {
+        "A": false,
+        "B": false,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B058",
+      "segment": "Young professional",
+      "budget": 47.18536234336962,
+      "entry": 70,
+      "interest": 0.16812999284621977,
+      "preferences": {
+        "A": 0.5672154447430089,
+        "B": 0.7978140127544892,
+        "C": 0.28105749924798473
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B059",
+      "segment": "Young professional",
+      "budget": 41.449814231741314,
+      "entry": 22,
+      "interest": 0.5405033560387233,
+      "preferences": {
+        "A": 0.20997806657002716,
+        "B": 0.8427514494662621,
+        "C": 0.7399055538562908
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B060",
+      "segment": "Young professional",
+      "budget": 50.46212391304772,
+      "entry": 39,
+      "interest": 0.48230985918122327,
+      "preferences": {
+        "A": 0.7204090928904638,
+        "B": 0.2751564903303083,
+        "C": 0.746008345518675
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B061",
+      "segment": "Family renter",
+      "budget": 60.26379581077981,
+      "entry": 72,
+      "interest": 0.5090379444718203,
+      "preferences": {
+        "A": 0.556625436638401,
+        "B": 0.2926401965438925,
+        "C": 0.3068582817193415
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B062",
+      "segment": "Family renter",
+      "budget": 58.244332315337545,
+      "entry": 62,
+      "interest": 0.09299709882574025,
+      "preferences": {
+        "A": 0.7801276866448031,
+        "B": 0.14696456676861336,
+        "C": 0.6748588481561132
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B063",
+      "segment": "Family renter",
+      "budget": 68.35671612778168,
+      "entry": 71,
+      "interest": 0.38634526087505483,
+      "preferences": {
+        "A": 0.8566619553804373,
+        "B": 0.42217248486289494,
+        "C": 0.5180766965207408
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B064",
+      "segment": "Family renter",
+      "budget": 34.77439099622686,
+      "entry": 20,
+      "interest": 0.845295924748034,
+      "preferences": {
+        "A": 0.2672862143943533,
+        "B": 0.40672934797010984,
+        "C": 0.8380432557215677
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B065",
+      "segment": "Family renter",
+      "budget": 74.36132984742858,
+      "entry": 18,
+      "interest": 0.25278626526875114,
+      "preferences": {
+        "A": 0.4618840267284493,
+        "B": 0.12624828704037416,
+        "C": 0.06159639206284995
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B066",
+      "segment": "Family renter",
+      "budget": 39.31352804041049,
+      "entry": 61,
+      "interest": 0.1431129477669324,
+      "preferences": {
+        "A": 0.6439575409460289,
+        "B": 0.6762202854171003,
+        "C": 0.7877704363287288
+      },
+      "fit": {
+        "A": false,
+        "B": false,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B067",
+      "segment": "Family renter",
+      "budget": 48.67286253716247,
+      "entry": 78,
+      "interest": 0.28667272670337784,
+      "preferences": {
+        "A": 0.33340786619648366,
+        "B": 0.03271085201070312,
+        "C": 0.9600183764066654
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 4
+    },
+    {
+      "id": "B068",
+      "segment": "Family renter",
+      "budget": 68.37153033351223,
+      "entry": 1,
+      "interest": 0.027228022688012166,
+      "preferences": {
+        "A": 0.9192808482541885,
+        "B": 0.4884049694329854,
+        "C": 0.6699581944372576
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B069",
+      "segment": "Family renter",
+      "budget": 58.081713715775365,
+      "entry": 49,
+      "interest": 0.6008086141034428,
+      "preferences": {
+        "A": 0.9265638161620836,
+        "B": 0.0945789195100748,
+        "C": 0.27859059487094395
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B070",
+      "segment": "Family renter",
+      "budget": 65.33023625641613,
+      "entry": 10,
+      "interest": 0.11411952200560294,
+      "preferences": {
+        "A": 0.5287675041173059,
+        "B": 0.3516296889340689,
+        "C": 0.8838510267031592
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B071",
+      "segment": "Family renter",
+      "budget": 57.41567073379337,
+      "entry": 37,
+      "interest": 0.5257520811618634,
+      "preferences": {
+        "A": 0.6348869160953998,
+        "B": 0.766599176111381,
+        "C": 0.06838676806204158
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B072",
+      "segment": "Family renter",
+      "budget": 53.14951587598798,
+      "entry": 15,
+      "interest": 0.22476998339268384,
+      "preferences": {
+        "A": 0.6164026260372174,
+        "B": 0.8460007026197112,
+        "C": 0.9308200758646725
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B073",
+      "segment": "Family renter",
+      "budget": 29.653068314703688,
+      "entry": 69,
+      "interest": 0.0933327929963409,
+      "preferences": {
+        "A": 0.2292290044850438,
+        "B": 0.9475511452435162,
+        "C": 0.15602061240182985
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B074",
+      "segment": "Family renter",
+      "budget": 64.58037274888173,
+      "entry": 46,
+      "interest": 0.3727103372658721,
+      "preferences": {
+        "A": 0.5414015488402614,
+        "B": 0.7441787713909469,
+        "C": 0.08877774993870369
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B075",
+      "segment": "Family renter",
+      "budget": 46.975919969856,
+      "entry": 65,
+      "interest": 0.5538307496295349,
+      "preferences": {
+        "A": 0.304290347608684,
+        "B": 0.22349318672287732,
+        "C": 0.1638165825185952
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B076",
+      "segment": "Family renter",
+      "budget": 56.216797080018026,
+      "entry": 78,
+      "interest": 0.027291565082399716,
+      "preferences": {
+        "A": 0.1728117442517002,
+        "B": 0.2630613600471995,
+        "C": 0.24068884499888366
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B077",
+      "segment": "Family renter",
+      "budget": 70.58261027556595,
+      "entry": 27,
+      "interest": 0.8100029986366457,
+      "preferences": {
+        "A": 0.027579765369256548,
+        "B": 0.3617111249871783,
+        "C": 0.5208447137873258
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B078",
+      "segment": "Family renter",
+      "budget": 50.470375597773184,
+      "entry": 18,
+      "interest": 0.20608257200961677,
+      "preferences": {
+        "A": 0.44819580565825223,
+        "B": 0.05538495213503869,
+        "C": 0.19605227753569032
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": false
+      },
+      "delay": 2
+    },
+    {
+      "id": "B079",
+      "segment": "Family renter",
+      "budget": 68.6924721269022,
+      "entry": 50,
+      "interest": 0.8714688556520558,
+      "preferences": {
+        "A": 0.7725508206826133,
+        "B": 0.9764064602968942,
+        "C": 0.8349323992878657
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B080",
+      "segment": "Family renter",
+      "budget": 71.83232967035647,
+      "entry": 21,
+      "interest": 0.28185871471141744,
+      "preferences": {
+        "A": 0.19173463524125578,
+        "B": 0.17731216800907101,
+        "C": 0.08801241357994516
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B081",
+      "segment": "Established renter",
+      "budget": 46.3556572390453,
+      "entry": 1,
+      "interest": 0.3683267573959952,
+      "preferences": {
+        "A": 0.29682955377552145,
+        "B": 0.7521225469876475,
+        "C": 0.3531766632241211
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B082",
+      "segment": "Established renter",
+      "budget": 59.60616332646305,
+      "entry": 75,
+      "interest": 0.5048491725662618,
+      "preferences": {
+        "A": 0.23307854143813755,
+        "B": 0.48000590913738106,
+        "C": 0.8946475649680966
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 5
+    },
+    {
+      "id": "B083",
+      "segment": "Established renter",
+      "budget": 58.044231037375795,
+      "entry": 64,
+      "interest": 0.6401673648947319,
+      "preferences": {
+        "A": 0.7783216567503543,
+        "B": 0.5160361239787699,
+        "C": 0.912035347466335
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B084",
+      "segment": "Established renter",
+      "budget": 67.6628011264844,
+      "entry": 36,
+      "interest": 0.8484111607792246,
+      "preferences": {
+        "A": 0.9657812940607123,
+        "B": 0.37309796132323103,
+        "C": 0.5510378300361443
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B085",
+      "segment": "Established renter",
+      "budget": 43.61351523289707,
+      "entry": 41,
+      "interest": 0.32936181922228724,
+      "preferences": {
+        "A": 0.8600008736956269,
+        "B": 0.40818154856668987,
+        "C": 0.4911757883258546
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 4
+    },
+    {
+      "id": "B086",
+      "segment": "Established renter",
+      "budget": 39.11522347624171,
+      "entry": 23,
+      "interest": 0.658461222326729,
+      "preferences": {
+        "A": 0.06246868326174293,
+        "B": 0.4890505613074163,
+        "C": 0.4347477316177041
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 3
+    },
+    {
+      "id": "B087",
+      "segment": "Established renter",
+      "budget": 79.79317393190996,
+      "entry": 47,
+      "interest": 0.7393472935551886,
+      "preferences": {
+        "A": 0.16789458881093555,
+        "B": 0.19804715155873542,
+        "C": 0.095079459461341
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": false
+      },
+      "delay": 5
+    },
+    {
+      "id": "B088",
+      "segment": "Established renter",
+      "budget": 60.446949685831754,
+      "entry": 7,
+      "interest": 0.6495823552669578,
+      "preferences": {
+        "A": 0.9839879649440053,
+        "B": 0.22393552692730778,
+        "C": 0.3623929075013682
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 2
+    },
+    {
+      "id": "B089",
+      "segment": "Established renter",
+      "budget": 43.999621523645004,
+      "entry": 33,
+      "interest": 0.7265770710405526,
+      "preferences": {
+        "A": 0.9424882301344621,
+        "B": 0.9226891410755733,
+        "C": 0.8439785025306746
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B090",
+      "segment": "Established renter",
+      "budget": 30.13857359221747,
+      "entry": 67,
+      "interest": 0.40163452165281277,
+      "preferences": {
+        "A": 0.495138456167843,
+        "B": 0.8512633869379579,
+        "C": 0.01927626305161101
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 3
+    },
+    {
+      "id": "B091",
+      "segment": "Established renter",
+      "budget": 46.87382725966599,
+      "entry": 42,
+      "interest": 0.04796955229085764,
+      "preferences": {
+        "A": 0.6139420482398767,
+        "B": 0.5913085709065253,
+        "C": 0.6464277612109631
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B092",
+      "segment": "Established renter",
+      "budget": 77.0588473610724,
+      "entry": 24,
+      "interest": 0.8645524927137419,
+      "preferences": {
+        "A": 0.24442848746043755,
+        "B": 0.25645292979799383,
+        "C": 0.7915131974232119
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B093",
+      "segment": "Established renter",
+      "budget": 89.50748820242504,
+      "entry": 41,
+      "interest": 0.0391136992964205,
+      "preferences": {
+        "A": 0.19358520252579736,
+        "B": 0.1060414652863817,
+        "C": 0.13218214063982425
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B094",
+      "segment": "Established renter",
+      "budget": 87.08488235204973,
+      "entry": 49,
+      "interest": 0.6198248279877464,
+      "preferences": {
+        "A": 0.9271133608945143,
+        "B": 0.21480453104372066,
+        "C": 0.8669519594716912
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B095",
+      "segment": "Established renter",
+      "budget": 49.29972991476005,
+      "entry": 49,
+      "interest": 0.939620981470943,
+      "preferences": {
+        "A": 0.952589816040586,
+        "B": 0.8826534757134324,
+        "C": 0.41527868074783203
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "delay": 1
+    },
+    {
+      "id": "B096",
+      "segment": "Established renter",
+      "budget": 39.89607304444311,
+      "entry": 30,
+      "interest": 0.11774882565024203,
+      "preferences": {
+        "A": 0.680502852035076,
+        "B": 0.9477590652230645,
+        "C": 0.46044991406003755
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 4
+    },
+    {
+      "id": "B097",
+      "segment": "Established renter",
+      "budget": 72.23339597658745,
+      "entry": 77,
+      "interest": 0.14881174194129143,
+      "preferences": {
+        "A": 0.5608015342281408,
+        "B": 0.4427321993355585,
+        "C": 0.1089759505788005
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 1
+    },
+    {
+      "id": "B098",
+      "segment": "Established renter",
+      "budget": 70.40852923299022,
+      "entry": 66,
+      "interest": 0.9755574447778909,
+      "preferences": {
+        "A": 0.6529743358582965,
+        "B": 0.19077760708743463,
+        "C": 0.15810319116042326
+      },
+      "fit": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "delay": 5
+    },
+    {
+      "id": "B099",
+      "segment": "Established renter",
+      "budget": 59.61284094626811,
+      "entry": 16,
+      "interest": 0.8264707498427857,
+      "preferences": {
+        "A": 0.8501696275035622,
+        "B": 0.04760504720101233,
+        "C": 0.7054751101922931
+      },
+      "fit": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "delay": 4
+    },
+    {
+      "id": "B100",
+      "segment": "Established renter",
+      "budget": 43.70046944663227,
+      "entry": 15,
+      "interest": 0.6265437357365948,
+      "preferences": {
+        "A": 0.846680114478021,
+        "B": 0.13565541111954482,
+        "C": 0.4430664438014069
+      },
+      "fit": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "delay": 2
+    }
+  ],
+  "summary": [
+    {
+      "product": "A",
+      "name": "Adhesive wall rack",
+      "stocked": 50,
+      "sold": 48,
+      "remaining": 2,
+      "profit": 299.2,
+      "required_cash": 830.0,
+      "financial_pass": false,
+      "cash_after_settlement": 787.2,
+      "settled_after_round_100": 0,
+      "pending_after_settlement": 0
+    },
+    {
+      "product": "B",
+      "name": "Over-cabinet organizer",
+      "stocked": 10,
+      "sold": 10,
+      "remaining": 0,
+      "profit": 59.0,
+      "required_cash": 390.0,
+      "financial_pass": true,
+      "cash_after_settlement": 559.0,
+      "settled_after_round_100": 0,
+      "pending_after_settlement": 0
+    },
+    {
+      "product": "C",
+      "name": "Freestanding shelf",
+      "stocked": 20,
+      "sold": 14,
+      "remaining": 6,
+      "profit": 128.6,
+      "required_cash": 630.0,
+      "financial_pass": false,
+      "cash_after_settlement": 556.6,
+      "settled_after_round_100": 0,
+      "pending_after_settlement": 0
+    }
+  ],
+  "transactions": [
+    {
+      "round": 1,
+      "buyer": "B028",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 3
+    },
+    {
+      "round": 1,
+      "buyer": "B081",
+      "segment": "Established renter",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 6
+    },
+    {
+      "round": 2,
+      "buyer": "B034",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 3
+    },
+    {
+      "round": 3,
+      "buyer": "B068",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 6
+    },
+    {
+      "round": 4,
+      "buyer": "B040",
+      "segment": "Young professional",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 5
+    },
+    {
+      "round": 7,
+      "buyer": "B088",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 9
+    },
+    {
+      "round": 9,
+      "buyer": "B039",
+      "segment": "Young professional",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 13
+    },
+    {
+      "round": 10,
+      "buyer": "B070",
+      "segment": "Family renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 12
+    },
+    {
+      "round": 14,
+      "buyer": "B048",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 17
+    },
+    {
+      "round": 15,
+      "buyer": "B007",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 16
+    },
+    {
+      "round": 15,
+      "buyer": "B072",
+      "segment": "Family renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 16
+    },
+    {
+      "round": 16,
+      "buyer": "B018",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 17
+    },
+    {
+      "round": 17,
+      "buyer": "B057",
+      "segment": "Young professional",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 20
+    },
+    {
+      "round": 17,
+      "buyer": "B099",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 21
+    },
+    {
+      "round": 18,
+      "buyer": "B050",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 19
+    },
+    {
+      "round": 19,
+      "buyer": "B024",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 21
+    },
+    {
+      "round": 20,
+      "buyer": "B008",
+      "segment": "Student renter",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 25
+    },
+    {
+      "round": 20,
+      "buyer": "B064",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 22
+    },
+    {
+      "round": 21,
+      "buyer": "B033",
+      "segment": "Young professional",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 26
+    },
+    {
+      "round": 21,
+      "buyer": "B065",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 24
+    },
+    {
+      "round": 22,
+      "buyer": "B059",
+      "segment": "Young professional",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 23
+    },
+    {
+      "round": 22,
+      "buyer": "B100",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 24
+    },
+    {
+      "round": 23,
+      "buyer": "B086",
+      "segment": "Established renter",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 26
+    },
+    {
+      "round": 24,
+      "buyer": "B092",
+      "segment": "Established renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 25
+    },
+    {
+      "round": 26,
+      "buyer": "B030",
+      "segment": "Student renter",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 31
+    },
+    {
+      "round": 26,
+      "buyer": "B041",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 29
+    },
+    {
+      "round": 27,
+      "buyer": "B077",
+      "segment": "Family renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 30
+    },
+    {
+      "round": 28,
+      "buyer": "B044",
+      "segment": "Young professional",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 33
+    },
+    {
+      "round": 29,
+      "buyer": "B056",
+      "segment": "Young professional",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 31
+    },
+    {
+      "round": 30,
+      "buyer": "B029",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 31
+    },
+    {
+      "round": 30,
+      "buyer": "B096",
+      "segment": "Established renter",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 34
+    },
+    {
+      "round": 32,
+      "buyer": "B019",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 37
+    },
+    {
+      "round": 33,
+      "buyer": "B054",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 38
+    },
+    {
+      "round": 34,
+      "buyer": "B089",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 35
+    },
+    {
+      "round": 35,
+      "buyer": "B055",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 39
+    },
+    {
+      "round": 36,
+      "buyer": "B084",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 40
+    },
+    {
+      "round": 37,
+      "buyer": "B052",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 39
+    },
+    {
+      "round": 38,
+      "buyer": "B071",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 43
+    },
+    {
+      "round": 39,
+      "buyer": "B032",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 43
+    },
+    {
+      "round": 40,
+      "buyer": "B060",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 44
+    },
+    {
+      "round": 41,
+      "buyer": "B085",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 45
+    },
+    {
+      "round": 42,
+      "buyer": "B042",
+      "segment": "Young professional",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 44
+    },
+    {
+      "round": 42,
+      "buyer": "B091",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 46
+    },
+    {
+      "round": 44,
+      "buyer": "B037",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 47
+    },
+    {
+      "round": 46,
+      "buyer": "B074",
+      "segment": "Family renter",
+      "seller": "B",
+      "price": 29.9,
+      "settlement_round": 50
+    },
+    {
+      "round": 47,
+      "buyer": "B002",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 51
+    },
+    {
+      "round": 49,
+      "buyer": "B069",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 53
+    },
+    {
+      "round": 50,
+      "buyer": "B079",
+      "segment": "Family renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 52
+    },
+    {
+      "round": 50,
+      "buyer": "B094",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 55
+    },
+    {
+      "round": 51,
+      "buyer": "B095",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 52
+    },
+    {
+      "round": 52,
+      "buyer": "B026",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 56
+    },
+    {
+      "round": 54,
+      "buyer": "B047",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 58
+    },
+    {
+      "round": 57,
+      "buyer": "B001",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 61
+    },
+    {
+      "round": 60,
+      "buyer": "B003",
+      "segment": "Student renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 63
+    },
+    {
+      "round": 61,
+      "buyer": "B066",
+      "segment": "Family renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 65
+    },
+    {
+      "round": 62,
+      "buyer": "B062",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 64
+    },
+    {
+      "round": 64,
+      "buyer": "B083",
+      "segment": "Established renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 68
+    },
+    {
+      "round": 65,
+      "buyer": "B049",
+      "segment": "Young professional",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 67
+    },
+    {
+      "round": 66,
+      "buyer": "B098",
+      "segment": "Established renter",
+      "seller": "C",
+      "price": 34.9,
+      "settlement_round": 71
+    },
+    {
+      "round": 67,
+      "buyer": "B011",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 69
+    },
+    {
+      "round": 68,
+      "buyer": "B053",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 71
+    },
+    {
+      "round": 69,
+      "buyer": "B045",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 72
+    },
+    {
+      "round": 70,
+      "buyer": "B014",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 75
+    },
+    {
+      "round": 71,
+      "buyer": "B005",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 73
+    },
+    {
+      "round": 72,
+      "buyer": "B021",
+      "segment": "Student renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 75
+    },
+    {
+      "round": 73,
+      "buyer": "B036",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 75
+    },
+    {
+      "round": 74,
+      "buyer": "B043",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 75
+    },
+    {
+      "round": 75,
+      "buyer": "B046",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 79
+    },
+    {
+      "round": 76,
+      "buyer": "B058",
+      "segment": "Young professional",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 80
+    },
+    {
+      "round": 77,
+      "buyer": "B061",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 82
+    },
+    {
+      "round": 78,
+      "buyer": "B063",
+      "segment": "Family renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 81
+    },
+    {
+      "round": 79,
+      "buyer": "B097",
+      "segment": "Established renter",
+      "seller": "A",
+      "price": 19.9,
+      "settlement_round": 80
+    }
+  ],
+  "round_log": [
+    {
+      "round": 1,
+      "product": "A",
+      "sales": 1,
+      "stock": 49,
+      "profit": -72.1,
+      "cash": 114.0,
+      "pending": 19.9
+    },
+    {
+      "round": 1,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 323.0,
+      "pending": 29.9
+    },
+    {
+      "round": 1,
+      "product": "C",
+      "sales": 0,
+      "stock": 20,
+      "profit": -80.0,
+      "cash": 180.0,
+      "pending": 0
+    },
+    {
+      "round": 2,
+      "product": "A",
+      "sales": 2,
+      "stock": 48,
+      "profit": -64.2,
+      "cash": 108.0,
+      "pending": 39.8
+    },
+    {
+      "round": 2,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 323.0,
+      "pending": 29.9
+    },
+    {
+      "round": 2,
+      "product": "C",
+      "sales": 0,
+      "stock": 20,
+      "profit": -80.0,
+      "cash": 180.0,
+      "pending": 0
+    },
+    {
+      "round": 3,
+      "product": "A",
+      "sales": 3,
+      "stock": 47,
+      "profit": -56.3,
+      "cash": 141.8,
+      "pending": 19.9
+    },
+    {
+      "round": 3,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 323.0,
+      "pending": 29.9
+    },
+    {
+      "round": 3,
+      "product": "C",
+      "sales": 0,
+      "stock": 20,
+      "profit": -80.0,
+      "cash": 180.0,
+      "pending": 0
+    },
+    {
+      "round": 4,
+      "product": "A",
+      "sales": 3,
+      "stock": 47,
+      "profit": -56.3,
+      "cash": 141.8,
+      "pending": 19.9
+    },
+    {
+      "round": 4,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 323.0,
+      "pending": 29.9
+    },
+    {
+      "round": 4,
+      "product": "C",
+      "sales": 1,
+      "stock": 19,
+      "profit": -65.1,
+      "cash": 172.0,
+      "pending": 34.9
+    },
+    {
+      "round": 5,
+      "product": "A",
+      "sales": 3,
+      "stock": 47,
+      "profit": -56.3,
+      "cash": 141.8,
+      "pending": 19.9
+    },
+    {
+      "round": 5,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 323.0,
+      "pending": 29.9
+    },
+    {
+      "round": 5,
+      "product": "C",
+      "sales": 1,
+      "stock": 19,
+      "profit": -65.1,
+      "cash": 206.9,
+      "pending": 0
+    },
+    {
+      "round": 6,
+      "product": "A",
+      "sales": 3,
+      "stock": 47,
+      "profit": -56.3,
+      "cash": 161.7,
+      "pending": 0
+    },
+    {
+      "round": 6,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 6,
+      "product": "C",
+      "sales": 1,
+      "stock": 19,
+      "profit": -65.1,
+      "cash": 206.9,
+      "pending": 0
+    },
+    {
+      "round": 7,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 155.7,
+      "pending": 19.9
+    },
+    {
+      "round": 7,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 7,
+      "product": "C",
+      "sales": 1,
+      "stock": 19,
+      "profit": -65.1,
+      "cash": 206.9,
+      "pending": 0
+    },
+    {
+      "round": 8,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 155.7,
+      "pending": 19.9
+    },
+    {
+      "round": 8,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 8,
+      "product": "C",
+      "sales": 1,
+      "stock": 19,
+      "profit": -65.1,
+      "cash": 206.9,
+      "pending": 0
+    },
+    {
+      "round": 9,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 175.6,
+      "pending": 0
+    },
+    {
+      "round": 9,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 9,
+      "product": "C",
+      "sales": 2,
+      "stock": 18,
+      "profit": -50.2,
+      "cash": 198.9,
+      "pending": 34.9
+    },
+    {
+      "round": 10,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 175.6,
+      "pending": 0
+    },
+    {
+      "round": 10,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 10,
+      "product": "C",
+      "sales": 3,
+      "stock": 17,
+      "profit": -35.3,
+      "cash": 190.9,
+      "pending": 69.8
+    },
+    {
+      "round": 11,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 175.6,
+      "pending": 0
+    },
+    {
+      "round": 11,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 11,
+      "product": "C",
+      "sales": 3,
+      "stock": 17,
+      "profit": -35.3,
+      "cash": 190.9,
+      "pending": 69.8
+    },
+    {
+      "round": 12,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 175.6,
+      "pending": 0
+    },
+    {
+      "round": 12,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 12,
+      "product": "C",
+      "sales": 3,
+      "stock": 17,
+      "profit": -35.3,
+      "cash": 225.8,
+      "pending": 34.9
+    },
+    {
+      "round": 13,
+      "product": "A",
+      "sales": 4,
+      "stock": 46,
+      "profit": -48.4,
+      "cash": 175.6,
+      "pending": 0
+    },
+    {
+      "round": 13,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 13,
+      "product": "C",
+      "sales": 3,
+      "stock": 17,
+      "profit": -35.3,
+      "cash": 260.7,
+      "pending": 0
+    },
+    {
+      "round": 14,
+      "product": "A",
+      "sales": 5,
+      "stock": 45,
+      "profit": -40.5,
+      "cash": 169.6,
+      "pending": 19.9
+    },
+    {
+      "round": 14,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 14,
+      "product": "C",
+      "sales": 3,
+      "stock": 17,
+      "profit": -35.3,
+      "cash": 260.7,
+      "pending": 0
+    },
+    {
+      "round": 15,
+      "product": "A",
+      "sales": 6,
+      "stock": 44,
+      "profit": -32.6,
+      "cash": 163.6,
+      "pending": 39.8
+    },
+    {
+      "round": 15,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 15,
+      "product": "C",
+      "sales": 4,
+      "stock": 16,
+      "profit": -20.4,
+      "cash": 252.7,
+      "pending": 34.9
+    },
+    {
+      "round": 16,
+      "product": "A",
+      "sales": 7,
+      "stock": 43,
+      "profit": -24.7,
+      "cash": 177.5,
+      "pending": 39.8
+    },
+    {
+      "round": 16,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 16,
+      "product": "C",
+      "sales": 4,
+      "stock": 16,
+      "profit": -20.4,
+      "cash": 287.6,
+      "pending": 0
+    },
+    {
+      "round": 17,
+      "product": "A",
+      "sales": 8,
+      "stock": 42,
+      "profit": -16.8,
+      "cash": 211.3,
+      "pending": 19.9
+    },
+    {
+      "round": 17,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 17,
+      "product": "C",
+      "sales": 5,
+      "stock": 15,
+      "profit": -5.5,
+      "cash": 279.6,
+      "pending": 34.9
+    },
+    {
+      "round": 18,
+      "product": "A",
+      "sales": 9,
+      "stock": 41,
+      "profit": -8.9,
+      "cash": 205.3,
+      "pending": 39.8
+    },
+    {
+      "round": 18,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 18,
+      "product": "C",
+      "sales": 5,
+      "stock": 15,
+      "profit": -5.5,
+      "cash": 279.6,
+      "pending": 34.9
+    },
+    {
+      "round": 19,
+      "product": "A",
+      "sales": 10,
+      "stock": 40,
+      "profit": -1.0,
+      "cash": 219.2,
+      "pending": 39.8
+    },
+    {
+      "round": 19,
+      "product": "B",
+      "sales": 1,
+      "stock": 9,
+      "profit": -66.1,
+      "cash": 352.9,
+      "pending": 0
+    },
+    {
+      "round": 19,
+      "product": "C",
+      "sales": 5,
+      "stock": 15,
+      "profit": -5.5,
+      "cash": 279.6,
+      "pending": 34.9
+    },
+    {
+      "round": 20,
+      "product": "A",
+      "sales": 11,
+      "stock": 39,
+      "profit": 6.9,
+      "cash": 213.2,
+      "pending": 59.7
+    },
+    {
+      "round": 20,
+      "product": "B",
+      "sales": 2,
+      "stock": 8,
+      "profit": -52.2,
+      "cash": 345.9,
+      "pending": 29.9
+    },
+    {
+      "round": 20,
+      "product": "C",
+      "sales": 5,
+      "stock": 15,
+      "profit": -5.5,
+      "cash": 314.5,
+      "pending": 0
+    },
+    {
+      "round": 21,
+      "product": "A",
+      "sales": 12,
+      "stock": 38,
+      "profit": 14.8,
+      "cash": 247.0,
+      "pending": 39.8
+    },
+    {
+      "round": 21,
+      "product": "B",
+      "sales": 3,
+      "stock": 7,
+      "profit": -38.3,
+      "cash": 338.9,
+      "pending": 59.8
+    },
+    {
+      "round": 21,
+      "product": "C",
+      "sales": 5,
+      "stock": 15,
+      "profit": -5.5,
+      "cash": 314.5,
+      "pending": 0
+    },
+    {
+      "round": 22,
+      "product": "A",
+      "sales": 13,
+      "stock": 37,
+      "profit": 22.7,
+      "cash": 260.9,
+      "pending": 39.8
+    },
+    {
+      "round": 22,
+      "product": "B",
+      "sales": 3,
+      "stock": 7,
+      "profit": -38.3,
+      "cash": 338.9,
+      "pending": 59.8
+    },
+    {
+      "round": 22,
+      "product": "C",
+      "sales": 6,
+      "stock": 14,
+      "profit": 9.4,
+      "cash": 306.5,
+      "pending": 34.9
+    },
+    {
+      "round": 23,
+      "product": "A",
+      "sales": 13,
+      "stock": 37,
+      "profit": 22.7,
+      "cash": 260.9,
+      "pending": 39.8
+    },
+    {
+      "round": 23,
+      "product": "B",
+      "sales": 4,
+      "stock": 6,
+      "profit": -24.4,
+      "cash": 331.9,
+      "pending": 89.7
+    },
+    {
+      "round": 23,
+      "product": "C",
+      "sales": 6,
+      "stock": 14,
+      "profit": 9.4,
+      "cash": 341.4,
+      "pending": 0
+    },
+    {
+      "round": 24,
+      "product": "A",
+      "sales": 13,
+      "stock": 37,
+      "profit": 22.7,
+      "cash": 300.7,
+      "pending": 0
+    },
+    {
+      "round": 24,
+      "product": "B",
+      "sales": 4,
+      "stock": 6,
+      "profit": -24.4,
+      "cash": 331.9,
+      "pending": 89.7
+    },
+    {
+      "round": 24,
+      "product": "C",
+      "sales": 7,
+      "stock": 13,
+      "profit": 24.3,
+      "cash": 333.4,
+      "pending": 34.9
+    },
+    {
+      "round": 25,
+      "product": "A",
+      "sales": 13,
+      "stock": 37,
+      "profit": 22.7,
+      "cash": 300.7,
+      "pending": 0
+    },
+    {
+      "round": 25,
+      "product": "B",
+      "sales": 4,
+      "stock": 6,
+      "profit": -24.4,
+      "cash": 361.8,
+      "pending": 59.8
+    },
+    {
+      "round": 25,
+      "product": "C",
+      "sales": 7,
+      "stock": 13,
+      "profit": 24.3,
+      "cash": 368.3,
+      "pending": 0
+    },
+    {
+      "round": 26,
+      "product": "A",
+      "sales": 14,
+      "stock": 36,
+      "profit": 30.6,
+      "cash": 294.7,
+      "pending": 19.9
+    },
+    {
+      "round": 26,
+      "product": "B",
+      "sales": 5,
+      "stock": 5,
+      "profit": -10.5,
+      "cash": 414.6,
+      "pending": 29.9
+    },
+    {
+      "round": 26,
+      "product": "C",
+      "sales": 7,
+      "stock": 13,
+      "profit": 24.3,
+      "cash": 368.3,
+      "pending": 0
+    },
+    {
+      "round": 27,
+      "product": "A",
+      "sales": 14,
+      "stock": 36,
+      "profit": 30.6,
+      "cash": 294.7,
+      "pending": 19.9
+    },
+    {
+      "round": 27,
+      "product": "B",
+      "sales": 5,
+      "stock": 5,
+      "profit": -10.5,
+      "cash": 414.6,
+      "pending": 29.9
+    },
+    {
+      "round": 27,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 360.3,
+      "pending": 34.9
+    },
+    {
+      "round": 28,
+      "product": "A",
+      "sales": 14,
+      "stock": 36,
+      "profit": 30.6,
+      "cash": 294.7,
+      "pending": 19.9
+    },
+    {
+      "round": 28,
+      "product": "B",
+      "sales": 6,
+      "stock": 4,
+      "profit": 3.4,
+      "cash": 407.6,
+      "pending": 59.8
+    },
+    {
+      "round": 28,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 360.3,
+      "pending": 34.9
+    },
+    {
+      "round": 29,
+      "product": "A",
+      "sales": 14,
+      "stock": 36,
+      "profit": 30.6,
+      "cash": 314.6,
+      "pending": 0
+    },
+    {
+      "round": 29,
+      "product": "B",
+      "sales": 7,
+      "stock": 3,
+      "profit": 17.3,
+      "cash": 400.6,
+      "pending": 89.7
+    },
+    {
+      "round": 29,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 360.3,
+      "pending": 34.9
+    },
+    {
+      "round": 30,
+      "product": "A",
+      "sales": 15,
+      "stock": 35,
+      "profit": 38.5,
+      "cash": 308.6,
+      "pending": 19.9
+    },
+    {
+      "round": 30,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 393.6,
+      "pending": 119.6
+    },
+    {
+      "round": 30,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 31,
+      "product": "A",
+      "sales": 15,
+      "stock": 35,
+      "profit": 38.5,
+      "cash": 328.5,
+      "pending": 0
+    },
+    {
+      "round": 31,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 453.4,
+      "pending": 59.8
+    },
+    {
+      "round": 31,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 32,
+      "product": "A",
+      "sales": 16,
+      "stock": 34,
+      "profit": 46.4,
+      "cash": 322.5,
+      "pending": 19.9
+    },
+    {
+      "round": 32,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 453.4,
+      "pending": 59.8
+    },
+    {
+      "round": 32,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 33,
+      "product": "A",
+      "sales": 17,
+      "stock": 33,
+      "profit": 54.3,
+      "cash": 316.5,
+      "pending": 39.8
+    },
+    {
+      "round": 33,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 483.3,
+      "pending": 29.9
+    },
+    {
+      "round": 33,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 34,
+      "product": "A",
+      "sales": 18,
+      "stock": 32,
+      "profit": 62.2,
+      "cash": 310.5,
+      "pending": 59.7
+    },
+    {
+      "round": 34,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 34,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 35,
+      "product": "A",
+      "sales": 19,
+      "stock": 31,
+      "profit": 70.1,
+      "cash": 324.4,
+      "pending": 59.7
+    },
+    {
+      "round": 35,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 35,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 36,
+      "product": "A",
+      "sales": 20,
+      "stock": 30,
+      "profit": 78.0,
+      "cash": 318.4,
+      "pending": 79.6
+    },
+    {
+      "round": 36,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 36,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 37,
+      "product": "A",
+      "sales": 21,
+      "stock": 29,
+      "profit": 85.9,
+      "cash": 332.3,
+      "pending": 79.6
+    },
+    {
+      "round": 37,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 37,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 38,
+      "product": "A",
+      "sales": 22,
+      "stock": 28,
+      "profit": 93.8,
+      "cash": 346.2,
+      "pending": 79.6
+    },
+    {
+      "round": 38,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 38,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 39,
+      "product": "A",
+      "sales": 23,
+      "stock": 27,
+      "profit": 101.7,
+      "cash": 380.0,
+      "pending": 59.7
+    },
+    {
+      "round": 39,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 39,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 40,
+      "product": "A",
+      "sales": 24,
+      "stock": 26,
+      "profit": 109.6,
+      "cash": 393.9,
+      "pending": 59.7
+    },
+    {
+      "round": 40,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 40,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 41,
+      "product": "A",
+      "sales": 25,
+      "stock": 25,
+      "profit": 117.5,
+      "cash": 387.9,
+      "pending": 79.6
+    },
+    {
+      "round": 41,
+      "product": "B",
+      "sales": 8,
+      "stock": 2,
+      "profit": 31.2,
+      "cash": 513.2,
+      "pending": 0
+    },
+    {
+      "round": 41,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 42,
+      "product": "A",
+      "sales": 26,
+      "stock": 24,
+      "profit": 125.4,
+      "cash": 381.9,
+      "pending": 99.5
+    },
+    {
+      "round": 42,
+      "product": "B",
+      "sales": 9,
+      "stock": 1,
+      "profit": 45.1,
+      "cash": 506.2,
+      "pending": 29.9
+    },
+    {
+      "round": 42,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 43,
+      "product": "A",
+      "sales": 26,
+      "stock": 24,
+      "profit": 125.4,
+      "cash": 421.7,
+      "pending": 59.7
+    },
+    {
+      "round": 43,
+      "product": "B",
+      "sales": 9,
+      "stock": 1,
+      "profit": 45.1,
+      "cash": 506.2,
+      "pending": 29.9
+    },
+    {
+      "round": 43,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 44,
+      "product": "A",
+      "sales": 27,
+      "stock": 23,
+      "profit": 133.3,
+      "cash": 435.6,
+      "pending": 59.7
+    },
+    {
+      "round": 44,
+      "product": "B",
+      "sales": 9,
+      "stock": 1,
+      "profit": 45.1,
+      "cash": 536.1,
+      "pending": 0
+    },
+    {
+      "round": 44,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 45,
+      "product": "A",
+      "sales": 27,
+      "stock": 23,
+      "profit": 133.3,
+      "cash": 455.5,
+      "pending": 39.8
+    },
+    {
+      "round": 45,
+      "product": "B",
+      "sales": 9,
+      "stock": 1,
+      "profit": 45.1,
+      "cash": 536.1,
+      "pending": 0
+    },
+    {
+      "round": 45,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 46,
+      "product": "A",
+      "sales": 27,
+      "stock": 23,
+      "profit": 133.3,
+      "cash": 475.4,
+      "pending": 19.9
+    },
+    {
+      "round": 46,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 529.1,
+      "pending": 29.9
+    },
+    {
+      "round": 46,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 47,
+      "product": "A",
+      "sales": 28,
+      "stock": 22,
+      "profit": 141.2,
+      "cash": 489.3,
+      "pending": 19.9
+    },
+    {
+      "round": 47,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 529.1,
+      "pending": 29.9
+    },
+    {
+      "round": 47,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 48,
+      "product": "A",
+      "sales": 28,
+      "stock": 22,
+      "profit": 141.2,
+      "cash": 489.3,
+      "pending": 19.9
+    },
+    {
+      "round": 48,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 529.1,
+      "pending": 29.9
+    },
+    {
+      "round": 48,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 49,
+      "product": "A",
+      "sales": 29,
+      "stock": 21,
+      "profit": 149.1,
+      "cash": 483.3,
+      "pending": 39.8
+    },
+    {
+      "round": 49,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 529.1,
+      "pending": 29.9
+    },
+    {
+      "round": 49,
+      "product": "C",
+      "sales": 8,
+      "stock": 12,
+      "profit": 39.2,
+      "cash": 395.2,
+      "pending": 0
+    },
+    {
+      "round": 50,
+      "product": "A",
+      "sales": 30,
+      "stock": 20,
+      "profit": 157.0,
+      "cash": 477.3,
+      "pending": 59.7
+    },
+    {
+      "round": 50,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 50,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 387.2,
+      "pending": 34.9
+    },
+    {
+      "round": 51,
+      "product": "A",
+      "sales": 31,
+      "stock": 19,
+      "profit": 164.9,
+      "cash": 491.2,
+      "pending": 59.7
+    },
+    {
+      "round": 51,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 51,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 387.2,
+      "pending": 34.9
+    },
+    {
+      "round": 52,
+      "product": "A",
+      "sales": 32,
+      "stock": 18,
+      "profit": 172.8,
+      "cash": 505.1,
+      "pending": 59.7
+    },
+    {
+      "round": 52,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 52,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 53,
+      "product": "A",
+      "sales": 32,
+      "stock": 18,
+      "profit": 172.8,
+      "cash": 525.0,
+      "pending": 39.8
+    },
+    {
+      "round": 53,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 53,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 54,
+      "product": "A",
+      "sales": 33,
+      "stock": 17,
+      "profit": 180.7,
+      "cash": 519.0,
+      "pending": 59.7
+    },
+    {
+      "round": 54,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 54,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 55,
+      "product": "A",
+      "sales": 33,
+      "stock": 17,
+      "profit": 180.7,
+      "cash": 538.9,
+      "pending": 39.8
+    },
+    {
+      "round": 55,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 55,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 56,
+      "product": "A",
+      "sales": 33,
+      "stock": 17,
+      "profit": 180.7,
+      "cash": 558.8,
+      "pending": 19.9
+    },
+    {
+      "round": 56,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 56,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 57,
+      "product": "A",
+      "sales": 34,
+      "stock": 16,
+      "profit": 188.6,
+      "cash": 552.8,
+      "pending": 39.8
+    },
+    {
+      "round": 57,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 57,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 58,
+      "product": "A",
+      "sales": 34,
+      "stock": 16,
+      "profit": 188.6,
+      "cash": 572.7,
+      "pending": 19.9
+    },
+    {
+      "round": 58,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 58,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 59,
+      "product": "A",
+      "sales": 34,
+      "stock": 16,
+      "profit": 188.6,
+      "cash": 572.7,
+      "pending": 19.9
+    },
+    {
+      "round": 59,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 59,
+      "product": "C",
+      "sales": 9,
+      "stock": 11,
+      "profit": 54.1,
+      "cash": 422.1,
+      "pending": 0
+    },
+    {
+      "round": 60,
+      "product": "A",
+      "sales": 34,
+      "stock": 16,
+      "profit": 188.6,
+      "cash": 572.7,
+      "pending": 19.9
+    },
+    {
+      "round": 60,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 60,
+      "product": "C",
+      "sales": 10,
+      "stock": 10,
+      "profit": 69.0,
+      "cash": 414.1,
+      "pending": 34.9
+    },
+    {
+      "round": 61,
+      "product": "A",
+      "sales": 34,
+      "stock": 16,
+      "profit": 188.6,
+      "cash": 592.6,
+      "pending": 0
+    },
+    {
+      "round": 61,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 61,
+      "product": "C",
+      "sales": 11,
+      "stock": 9,
+      "profit": 83.9,
+      "cash": 406.1,
+      "pending": 69.8
+    },
+    {
+      "round": 62,
+      "product": "A",
+      "sales": 35,
+      "stock": 15,
+      "profit": 196.5,
+      "cash": 586.6,
+      "pending": 19.9
+    },
+    {
+      "round": 62,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 62,
+      "product": "C",
+      "sales": 11,
+      "stock": 9,
+      "profit": 83.9,
+      "cash": 406.1,
+      "pending": 69.8
+    },
+    {
+      "round": 63,
+      "product": "A",
+      "sales": 35,
+      "stock": 15,
+      "profit": 196.5,
+      "cash": 586.6,
+      "pending": 19.9
+    },
+    {
+      "round": 63,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 63,
+      "product": "C",
+      "sales": 11,
+      "stock": 9,
+      "profit": 83.9,
+      "cash": 441.0,
+      "pending": 34.9
+    },
+    {
+      "round": 64,
+      "product": "A",
+      "sales": 35,
+      "stock": 15,
+      "profit": 196.5,
+      "cash": 606.5,
+      "pending": 0
+    },
+    {
+      "round": 64,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 64,
+      "product": "C",
+      "sales": 12,
+      "stock": 8,
+      "profit": 98.8,
+      "cash": 433.0,
+      "pending": 69.8
+    },
+    {
+      "round": 65,
+      "product": "A",
+      "sales": 35,
+      "stock": 15,
+      "profit": 196.5,
+      "cash": 606.5,
+      "pending": 0
+    },
+    {
+      "round": 65,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 65,
+      "product": "C",
+      "sales": 13,
+      "stock": 7,
+      "profit": 113.7,
+      "cash": 459.9,
+      "pending": 69.8
+    },
+    {
+      "round": 66,
+      "product": "A",
+      "sales": 35,
+      "stock": 15,
+      "profit": 196.5,
+      "cash": 606.5,
+      "pending": 0
+    },
+    {
+      "round": 66,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 66,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 451.9,
+      "pending": 104.7
+    },
+    {
+      "round": 67,
+      "product": "A",
+      "sales": 36,
+      "stock": 14,
+      "profit": 204.4,
+      "cash": 600.5,
+      "pending": 19.9
+    },
+    {
+      "round": 67,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 67,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 486.8,
+      "pending": 69.8
+    },
+    {
+      "round": 68,
+      "product": "A",
+      "sales": 37,
+      "stock": 13,
+      "profit": 212.3,
+      "cash": 594.5,
+      "pending": 39.8
+    },
+    {
+      "round": 68,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 68,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 521.7,
+      "pending": 34.9
+    },
+    {
+      "round": 69,
+      "product": "A",
+      "sales": 38,
+      "stock": 12,
+      "profit": 220.2,
+      "cash": 608.4,
+      "pending": 39.8
+    },
+    {
+      "round": 69,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 69,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 521.7,
+      "pending": 34.9
+    },
+    {
+      "round": 70,
+      "product": "A",
+      "sales": 39,
+      "stock": 11,
+      "profit": 228.1,
+      "cash": 602.4,
+      "pending": 59.7
+    },
+    {
+      "round": 70,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 70,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 521.7,
+      "pending": 34.9
+    },
+    {
+      "round": 71,
+      "product": "A",
+      "sales": 40,
+      "stock": 10,
+      "profit": 236.0,
+      "cash": 616.3,
+      "pending": 59.7
+    },
+    {
+      "round": 71,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 71,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 72,
+      "product": "A",
+      "sales": 41,
+      "stock": 9,
+      "profit": 243.9,
+      "cash": 630.2,
+      "pending": 59.7
+    },
+    {
+      "round": 72,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 72,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 73,
+      "product": "A",
+      "sales": 42,
+      "stock": 8,
+      "profit": 251.8,
+      "cash": 644.1,
+      "pending": 59.7
+    },
+    {
+      "round": 73,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 73,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 74,
+      "product": "A",
+      "sales": 43,
+      "stock": 7,
+      "profit": 259.7,
+      "cash": 638.1,
+      "pending": 79.6
+    },
+    {
+      "round": 74,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 74,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 75,
+      "product": "A",
+      "sales": 44,
+      "stock": 6,
+      "profit": 267.6,
+      "cash": 711.7,
+      "pending": 19.9
+    },
+    {
+      "round": 75,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 75,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 76,
+      "product": "A",
+      "sales": 45,
+      "stock": 5,
+      "profit": 275.5,
+      "cash": 705.7,
+      "pending": 39.8
+    },
+    {
+      "round": 76,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 76,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 77,
+      "product": "A",
+      "sales": 46,
+      "stock": 4,
+      "profit": 283.4,
+      "cash": 699.7,
+      "pending": 59.7
+    },
+    {
+      "round": 77,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 77,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 78,
+      "product": "A",
+      "sales": 47,
+      "stock": 3,
+      "profit": 291.3,
+      "cash": 693.7,
+      "pending": 79.6
+    },
+    {
+      "round": 78,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 78,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 79,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 707.6,
+      "pending": 79.6
+    },
+    {
+      "round": 79,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 79,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 80,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 747.4,
+      "pending": 39.8
+    },
+    {
+      "round": 80,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 80,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 81,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 767.3,
+      "pending": 19.9
+    },
+    {
+      "round": 81,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 81,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 82,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 82,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 82,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 83,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 83,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 83,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 84,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 84,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 84,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 85,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 85,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 85,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 86,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 86,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 86,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 87,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 87,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 87,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 88,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 88,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 88,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 89,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 89,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 89,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 90,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 90,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 90,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 91,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 91,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 91,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 92,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 92,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 92,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 93,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 93,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 93,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 94,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 94,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 94,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 95,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 95,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 95,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 96,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 96,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 96,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 97,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 97,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 97,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 98,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 98,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 98,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 99,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 99,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 99,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    },
+    {
+      "round": 100,
+      "product": "A",
+      "sales": 48,
+      "stock": 2,
+      "profit": 299.2,
+      "cash": 787.2,
+      "pending": 0
+    },
+    {
+      "round": 100,
+      "product": "B",
+      "sales": 10,
+      "stock": 0,
+      "profit": 59.0,
+      "cash": 559.0,
+      "pending": 0
+    },
+    {
+      "round": 100,
+      "product": "C",
+      "sales": 14,
+      "stock": 6,
+      "profit": 128.6,
+      "cash": 556.6,
+      "pending": 0
+    }
+  ]
+}
